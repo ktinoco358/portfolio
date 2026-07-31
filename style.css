@@ -272,7 +272,7 @@ body{
 .HomePage_tbd{
     height:65vh;
     background-color:black;
-    background-image: url("/assets/homePageLogo4.svg");
+    background-image: url("assets/homePageLogo4.svg");
     object-fit:contain;
     background-repeat: no-repeat;   
 }
@@ -440,7 +440,7 @@ body{
 .UnderConstruction{
     display: flex;
     width: 100%;
-    background-image: url("/assets/underConstruction.jpg");
+    background-image: url("assets/underConstruction.jpg");
     background-repeat: no-repeat;
     background-position:center;
 }
